@@ -2,7 +2,14 @@ venv/
 __pycache__/
 *.pyc
 
+# Private cryptographic keys
 keys/private_key.pem
+
+# Generated signatures
 signatures/*.sig
 
+# Generated reports
+reports/
+
+# Environment files
 .env
