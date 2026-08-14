@@ -713,5 +713,3 @@ PUBLIC KEY
 
 > **SignSecure digitally signs files using an RSA private key and verifies them using the corresponding public key, allowing unauthorized file modifications to be detected.**
 
-```
-```
