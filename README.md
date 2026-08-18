@@ -728,3 +728,10 @@ PUBLIC KEY
 
 > **SignSecure digitally signs files using an RSA private key and verifies them using the corresponding public key, allowing unauthorized file modifications to be detected.**
 
+## ⭐ Support
+
+If you found **SignSecure** useful for learning about **Digital Signatures, Cryptography, Cybersecurity, Python, or GUI Application Development**, consider giving the repository a ⭐ on GitHub.
+
+Your support and feedback are greatly appreciated! 🙌🔐
+
+
