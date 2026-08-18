@@ -695,8 +695,9 @@ signatures/*.sig
 
 Computer Science & Engineering
 
-GitHub:
+Aspiring SOC Analyst | Cybersecurity Enthusiast
 
+GitHub:
 [https://github.com/Soumya-CSE](https://github.com/Soumya-CSE)
 
 ---
