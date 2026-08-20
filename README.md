@@ -2,9 +2,11 @@
 
 ## Digital Signature & File Integrity Verification System
 
-SignSecure is a Python-based cybersecurity application designed to digitally sign files and verify their authenticity and integrity using public-key cryptography.
+SignSecure is a Python-based digital signature and file integrity verification system built to ensure the authenticity, integrity, and non-repudiation of digital files using public-key cryptography.
 
-The project combines **RSA-3072**, **RSA-PSS**, and **SHA-256** to create and verify digital signatures. It provides a modern dark SOC-style cybersecurity dashboard for file hashing, digital signing, signature verification, tamper detection, key management, security logging, and security reporting.
+The application implements RSA-3072 for asymmetric key generation, RSA-PSS for secure probabilistic digital signatures, and SHA-256 for cryptographic hashing. Before signing, the application generates a SHA-256 digest of the file, which is then signed using the RSA private key. During verification, the signature is validated against the file's newly calculated hash using the corresponding public key, enabling reliable detection of unauthorized modifications or tampering.
+
+SignSecure also provides a dark SOC-style security dashboard with integrated file hashing, digital signing, signature verification, tamper detection, key management, security event logging, verification status monitoring, and security reporting, making it suitable for practical cybersecurity and file-integrity workflows
 
 > **SignSecure helps detect unauthorized modification of digitally signed files and provides a clear security result to the user.**
 
@@ -732,6 +734,6 @@ PUBLIC KEY
 
 If you found **SignSecure** useful for learning about **Digital Signatures, Cryptography, Cybersecurity, Python, or GUI Application Development**, consider giving the repository a ⭐ on GitHub.
 
-Your support and feedback are greatly appreciated! 🙌🔐
+Your support and feedback are greatly appreciated! 🙌
 
 
