@@ -693,15 +693,21 @@ signatures/*.sig
 
 ## 👨‍💻 Author
 
-**Soumya Kanti Hazra**
+**Soumya Hazra**
 
-Computer Science & Engineering
+B.Tech Computer Science & Engineering
 
-Aspiring SOC Analyst | Cybersecurity Enthusiast
+Interested in:
 
-GitHub:
-[https://github.com/Soumya-CSE](https://github.com/Soumya-CSE)
-
+```text
+Cybersecurity
+SOC Analysis
+Blue Team
+Threat Hunting
+MITRE ATT&CK
+Detection Engineering
+Security Automation
+```
 ---
 
 ## 📜 License
